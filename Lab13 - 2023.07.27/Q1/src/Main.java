@@ -8,13 +8,7 @@ public class Main {
         green.start();
         yellow.start();
 
-        while (true){
-            try {
-                Thread.sleep(12000);
-            }
-            catch (InterruptedException e){
-                System.out.println(e);
-            }
-        }
+
+        
     }
 }
