@@ -4,30 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80be7540-46b4-4b86-b31f-7e6463ddb411" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q1/src/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q1/src/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/Q2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/src/SubC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/src/SuperB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/src/TestInheritance.java" beforeDir="false" />
+    <list default="true" id="8c727cac-6951-4be0-896d-07c9060a47c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestEnployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5 - 2023.06.01/Q2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2TEnLbnFbbxb48UAW9r6O7y3Oa1" />
+  <component name="ProjectId" id="2TF19knaL4buS4RJrdjQwXUgXPZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,11 +43,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80be7540-46b4-4b86-b31f-7e6463ddb411" name="Changes" comment="" />
-      <created>1690617054571</created>
+      <changelist id="8c727cac-6951-4be0-896d-07c9060a47c8" name="Changes" comment="" />
+      <created>1690623867351</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1690617054571</updated>
+      <updated>1690623867351</updated>
     </task>
     <servers />
   </component>
